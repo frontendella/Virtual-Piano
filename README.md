@@ -7,3 +7,5 @@ Technologies used:
 - JavaScript
 
 Press the key on the keyboard and create your own beautiful melody on the virtual piano.
+
+Demo: https://frontendella.github.io/Virtual-Piano/
