@@ -11,6 +11,6 @@ Technologies used:
 
 Press the key on the keyboard and create your own beautiful melody on the virtual piano.
 
-##Demo: 
+## Demo: 
 
 https://frontendella.github.io/Virtual-Piano/
